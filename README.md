@@ -28,6 +28,6 @@ __We have collected four dataset, AIS data from https://marinecadastre.gov/ and 
 ![demo2](https://github.com/AmazingCY/DataAnalyze/blob/main/visualization/demo2.JPG)
 
 ## 4. Requirement
- __Python 1.5  
+ __Python 3.5  
      Folium 0.12.1  
      numpy 1.18.1__
