@@ -22,6 +22,10 @@ __We have collected four dataset, AIS data from https://marinecadastre.gov/ and 
 | 1922| 2010-10-12T00:26:46Z   | 32.9543800667 |-97.0039908333 | 899984|
 
 ## 3. Visualization
+![demo1](https://github.com/AmazingCY/DataAnalyze/blob/main/visualization/demo1.JPG)
+![demo2](https://github.com/AmazingCY/DataAnalyze/blob/main/visualization/demo2.JPG)
+
+## 4. Requirement
  __Python 1.5  
      Folium 0.12.1  
      numpy 1.18.1__
